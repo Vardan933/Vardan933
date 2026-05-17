@@ -1,12 +1,14 @@
-# Hi, I'm Vardan! 👋 
+<div align="center">
 
-### 📱 iOS Developer & Apple Ecosystem Enthusiast
+# Vardan Ghazaryan
+
+**iOS Developer** · *Stay hungry, stay native.*
+
+[LinkedIn](https://www.linkedin.com/in/vardan-ghazaryan-ios/)) · [Email](mailto:ghazarian.vardan93@gmail.com)
 
 ---
 
-- 🛠️ **Stack:** Swift, UIKit, SwiftUI
-- 🧠 **Grind:** Mastering LeetCode & complex alghoritms
+Swift · UIKit · SwiftUI · Algorithms & Data Structures
 
----
+</div>
 
-*“Stay hungry, stay native”* 
