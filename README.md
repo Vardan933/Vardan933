@@ -4,7 +4,7 @@
 
 **iOS Developer** · *Stay hungry, stay native.*
 
-[LinkedIn](https://www.linkedin.com/in/vardan-ghazaryan-ios/)) · [Email](mailto:ghazarian.vardan93@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/vardan-ghazaryan-ios/) · [Email](mailto:ghazarian.vardan93@gmail.com)
 
 ---
 
